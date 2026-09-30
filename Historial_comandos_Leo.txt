@@ -1,0 +1,96 @@
+ssh-keygen
+cat $HOME/.ssh/*.pub
+ssh-keygen
+cat $HOME/.ssh/*.pub
+ssh-keygen cls
+cat $HOME/.ssh/*.pub
+sudo apt update
+sudo apt update && sudo apt upgrade
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:leonardoarielrc-web/TP_AySO.git
+cd t
+cd T
+cd
+cd repogit
+git clone git@github.com:leonardoarielrc-web/TP_AySO.git
+sudo apt install git
+git clone git@github.com:leonardoarielrc-web/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+man grep
+grep -I home_url /etc/os-release
+whoami
+id -un
+echo "Usuario=$(whoami)" > datos_usuario.txt
+echo 
+
+echo "Usuario=$(whoami)>datos_usuario.txt
+
+pwh
+git add .
+
+
+
+
+
+echo "Usuario=$(whoami)>datos_usuario.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+echo "Usuario=$(whoami)">datos_usuario.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+pwd
+echo
+man echo
+echo "usuario:leo"
+pwd
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+git add.
+git add .
+git config --global-user.email "leonardoarielrc@gmail.com"
+git config --global user-email "leonardoarielrc@gmail.com"
+git config --global user.email "leonardoarielrc@gmail.com"
+git config --global user.name "leo"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt
+git status
+pwd
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+grep
+man grep
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+"feat: Añadiendo información de CPU"
+feat: Añadiendo información de CPU
+grep "model name"
+cat datos_usuario.txt
+grep cpuinfo
+cat datos_usuario.txt
+git commit "feat: Añadiendo información deCPU"
+git commit -m "Añadiendo información de CPU"
+git commit -m "feat: Añadiendo información de CPU"
+git add .
+git commit -m "feat: Añadiendo información de CPU"
+cat <<EOF>> README.md
+
+Alumno: Leo
+División: 311
+Turno: Noche
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
